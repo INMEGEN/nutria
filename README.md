@@ -17,9 +17,9 @@ Persona que quiere cuidar su alimentación a través de una aplicación móvil d
 En este apartado los actores conocerán las actividades que podrán realizar.
 
 1. LOG IN
-	..* Seleccionar si es Nutriologa o Paciente
+	- Seleccionar si es Nutriologa o Paciente
 
 2. NUTRIOLOGA
-	..* [Registro del paciente](../blob/master/Casos%20de%20Uso/RegistroPac)
+	- [Registro del paciente](../blob/master/Casos%20de%20Uso/RegistroPac)
 
 3. PACIENTE
