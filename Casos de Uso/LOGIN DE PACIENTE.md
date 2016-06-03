@@ -4,8 +4,8 @@
 
 -Al paciente se le abrira su perfil de nutricon ya con los datos personales que incluyo la nutriologa y su tipo de prescripcion nutricional.
 
--El paciente podra modificar su perfil:
---Foto de perfil.
---Cambiar usuario por defecto.
---Modificar contraseña por defecto.
+	-El paciente podra modificar su perfil:
+		-Foto de perfil.
+		-Cambiar usuario por defecto.
+		-Modificar contraseña por defecto.
 
