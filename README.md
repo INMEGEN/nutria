@@ -13,6 +13,8 @@ Por otro lado, la nutriologa también podrá crear tablas referentes a las aport
 ### Paciente
 Persona que quiere cuidar su alimentación a través de una aplicación móvil de acuerdo con el plan alimenticio que la nutriologa recomendó, dadas las porciones exactas con forme a las tablas de nutrición proporcionadas por la misma.
 
+Para poder usar correctamente la apliación, primero debe de acudir con el nutriologo para que éste le indique la descarga de la app y así poder llevar a cabo el seguimiento de su prescripción nutrimental.
+
 ## Casos de uso
 En este apartado los actores conocerán las actividades que podrán realizar.
 
@@ -20,6 +22,6 @@ En este apartado los actores conocerán las actividades que podrán realizar.
 	- Seleccionar si es Nutriologa o Paciente
 
 2. NUTRIOLOGA
-	- [Registro del paciente](../blob/master/Casos%20de%20Uso/RegistroPac)
+	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
 
 3. PACIENTE
