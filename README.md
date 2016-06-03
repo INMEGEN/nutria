@@ -25,6 +25,7 @@ En este apartado los actores conocerán las actividades que podrán realizar.
 
 2. NUTRIOLOGA
 	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
+	- [Control del paciente]()
 
 3. PACIENTE
 	- [Log In Paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/LOGIN%20DE%20PACIENTE.md)
