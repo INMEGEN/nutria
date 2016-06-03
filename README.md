@@ -20,8 +20,8 @@ En este apartado los actores conocerán las actividades que podrán realizar.
 
 1. LOG IN
 	- Seleccionar si es Nutriologa o Paciente
-		-- Ingresar ID
-		-- Ingresar Password
+		- Ingresar ID
+		- Ingresar Password
 
 2. NUTRIOLOGA
 	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
