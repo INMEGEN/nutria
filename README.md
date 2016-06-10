@@ -16,7 +16,7 @@ Persona que quiere cuidar su alimentación a través de una aplicación móvil d
 Para poder usar correctamente la apliación, primero debe de acudir con el nutriologo para que éste le indique la descarga de la app y así poder llevar a cabo el seguimiento de su prescripción nutrimental.
 
 ## Casos de uso
-En este apartado los actores conocerán las actividades que podrán realizar y la manera en que éstos podrán ser completados.
+En este apartado los actores conocerán las actividades que podrán realizar y la manera en que éstas podrán ser completadas.
 
 1. LOG IN
 	- Seleccionar si es Nutriologa o Paciente
@@ -33,3 +33,5 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 	- [Creación de recetas - PREECARGADAS](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20default.md)
 	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
 	- [Comprar ingredientes](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Lista%20de%20compras.md)
+
+4. 
