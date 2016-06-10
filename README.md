@@ -16,7 +16,7 @@ Persona que quiere cuidar su alimentación a través de una aplicación móvil d
 Para poder usar correctamente la apliación, primero debe de acudir con el nutriologo para que éste le indique la descarga de la app y así poder llevar a cabo el seguimiento de su prescripción nutrimental.
 
 ## Casos de uso
-En este apartado los actores conocerán las actividades que podrán realizar.
+En este apartado los actores conocerán las actividades que podrán realizar y la manera en que éstos podrán ser completados.
 
 1. LOG IN
 	- Seleccionar si es Nutriologa o Paciente
