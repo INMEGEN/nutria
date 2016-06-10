@@ -34,8 +34,8 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
 	- [Comprar ingredientes](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Lista%20de%20compras.md)
 
-4. [Ingredientes](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Ingredientes.md)
+4. [INGREDIENTES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Ingredientes.md)
 
-5. [Plan de Alimentación](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Plan.md)
+5. [PLAN DE ALIMENTACIÓN](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Plan.md)
 
-6. [Aportaciones](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Aportaciones.md)
+6. [APORTACIONES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Aportaciones.md)
