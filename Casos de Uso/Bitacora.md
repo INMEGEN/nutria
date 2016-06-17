@@ -2,4 +2,13 @@
 
 La nutriologra encargada del paciente tendrá acceso a la información proporcionada por éste.
 
-Aquí, se refiere a que la nutriologa podrá consultar los datos que el paciente ha enviado, por ejemplo, si el paciente decide haber cambiado el menú de ese día, entonces lo tendrá que registrar y la nutriologa podrá consultar esta sección, podra consultar el avance que ha tenido el paciente, asi como tambien el paciente podra consultar su bitacora
+Los datos que se han cargado en el registro serán los que apareceran en:
+
+- Peso
+- % Grasa
+- IMC
+
+Y cada mes que el paciente asista a la consulta con la nutriologa, los datos podrán ser modificados y así poder llevar el control correcto.
+
+También, aquí la nutriologa podrá saber si el paciente ha modificado o no el menú sugerido del día.
+
