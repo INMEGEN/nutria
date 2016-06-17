@@ -8,10 +8,10 @@ La nutriologra encargada podrá registrar al paciente con los siguientes datos:
 - Talla
 - Peso Objetivo
 - Quimica sanguínea -Esta es Opcional
-	-Glucosa
-	-Trigliceridos
-	-Colesterol
-	-Insulina
+	- Glucosa
+	- Trigliceridos
+	- Colesterol
+	- Insulina
 - IMC
 - % Grasa
 - % masa libre de grasa
