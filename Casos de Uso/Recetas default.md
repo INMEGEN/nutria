@@ -1,4 +1,4 @@
-##Creación de recetas - DEFAULT
+##Consultar Recetas
 
 En esta sección, el paciente o personas afines a la aplicación, podrán consultar la lista de recetas que se ha generado de manera automática.
 
