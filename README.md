@@ -18,17 +18,17 @@ Para poder usar correctamente la apliación, primero debe de acudir con el nutri
 ## Casos de uso
 En este apartado los actores conocerán las actividades que podrán realizar y la manera en que éstas podrán ser completadas.
 
-1. LOG IN
+1. **LOG IN**
 	- Seleccionar si es Nutriologa o Paciente
 		- Ingresar ID
 		- Ingresar Password
 
-2. NUTRIOLOGA
+2. **NUTRIOLOGA**
 	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
 	- [Control del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Control%20del%20paciente.md)
 	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
 
-3. PACIENTE
+3. **PACIENTE**
 	- [Log In Paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/LOGIN%20DE%20PACIENTE.md)
 	- [Creación de recetas - PREECARGADAS](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20default.md)
 	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
