@@ -40,3 +40,5 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 5. [PLAN DE ALIMENTACIÓN](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Plan.md)
 
 6. [APORTACIONES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Aportaciones.md)
+
+7. [CHAT](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Chat.md)
