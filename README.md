@@ -26,7 +26,7 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 2. NUTRIOLOGA
 	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
 	- [Tabla de Grupos Alimenticios](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Tabla%20de%20Grupos%20Alimenticios.md)
-	- [Control del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Control%20del%20paciente.md)
+	- [Bitacora](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Bitacora.md)
 	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
 
 3. PACIENTE
