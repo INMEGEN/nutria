@@ -24,7 +24,7 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
 	- [Tabla de Grupos Alimenticios](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Tabla%20de%20Grupos%20Alimenticios.md)
 	- [Bitacora](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Bitacora.md)
-	- [Creación de recetas - MANUALES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Recetas%20Manuales.md)
+	- [Creación y edición de recetas](Casos%20de%20Uso/CrearEditarRecetas.md)
 
 2. PACIENTE
 	- [Log In Paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/LOGIN%20DE%20PACIENTE.md)
