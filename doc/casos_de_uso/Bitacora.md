@@ -19,7 +19,7 @@
 - Peso
 - Talla
 
-
+- foto para bitácora
 
 
 

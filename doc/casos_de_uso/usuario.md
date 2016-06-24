@@ -2,6 +2,11 @@
 
 Datos que la aplicación registra acerca de un usuario.
 
+- nombre de usuario
+- contraseña
+
+---------
+
 - Nombre
 - Fecha de nacimiento
 - Correo electrónico

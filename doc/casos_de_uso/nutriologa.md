@@ -7,4 +7,5 @@ Específicamente:
 - puede registrar a otros usuarios, tanto nutriólogas como pacientes.
   - los pacientes registrados por una nutrióloga particular son "de
     ella", puede consultar y hacer registros en sus bitácoras y
-    recetarles planes alimenticios.
+    recetarles planes alimenticios. No así en los pacientes
+    registrados por otras nutriólogas.

@@ -58,7 +58,7 @@ su nutrióloga. [Ver detalles](paciente.md).
 En este apartado se detallan las interacciones de usuarios entre sí y
 de usuarios con los objetos del sistema.
 
- - [Registro del paciente](RegistroPac.md)
+ - [Registrar paciente](paciente_registrar.md)
  - [Tabla de Grupos Alimenticios](Tabla%20de%20Grupos%20Alimenticios.md)
  - [Bitacora](Bitacora.md)
  - [Creación y edición de recetas](CrearEditarRecetas.md)
