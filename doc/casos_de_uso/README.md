@@ -73,5 +73,5 @@ de usuarios con los objetos del sistema.
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
  - [Ingredientes](Ingredientes.md)
- - [Tus Porciones](Plan.md) 
+ - [Consultar plan alimenticio](Plan.md) 
 
