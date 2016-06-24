@@ -3,7 +3,7 @@
 
 
 
-- Peso Objetivo
+- Peso Objetivo: hace referencia al peso que la [nutriologa](nutriologa.md) ha indicado como el debido para el [paciente](paciente.md)
 
 
 
