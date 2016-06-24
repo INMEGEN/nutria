@@ -49,7 +49,7 @@ sistema. [Ver detalles](nutriologa.md).
 ### Paciente
 
 Consulta recetas congruentes con el plan de alimentación recetado por
-su nutrióloga. [Ver detalles](paciente.md).
+su nutrióloga teniendo la posbibilidad de hacer cambios en la bitácora en los campos de peso y talla. [Ver detalles](paciente.md).
 
 
 ------------------------------
@@ -67,7 +67,7 @@ de usuarios con los objetos del sistema.
  - [Consultar bitacora](bitacora_consultar.md)
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
- - [Iniciar sesión paciente](Log_in_paciente.md)
+ - [Iniciar sesión paciente](paciente_iniciar_sesion.md)
  - [Iniciar sesión nutrióloga]()
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
