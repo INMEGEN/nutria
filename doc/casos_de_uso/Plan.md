@@ -1,16 +1,8 @@
-##Plan de Alimentación
-
-
-
+## Plan Nutricional Individual
 
 - Peso Objetivo: hace referencia al peso que la [nutriologa](nutriologa.md) ha indicado como el debido para el [paciente](paciente.md)
 
+El Plan Nutricional Individual especifíca cuántas porciones al día debe comer el paciente de cada clasificador
+alimenticio. 
 
-
-
-Se especifíca cuántas raciones se debe comer de cada clasificador
-alimenticio. Con base en esto, las recetas también serán desarrolladas
-para efectos positivos para-con el paciente.
-
-Esto será posible con ayuda de la tabla de raciones/aportaciones y
-saber las cantidades exactas a ingerir durante el día.
+El paciente cubrirá estas porciones siguiendo el [menú sugerido]().
