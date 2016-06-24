@@ -72,6 +72,11 @@ de usuarios con los objetos del sistema.
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
+<<<<<<< HEAD
  
  - [Tus Porciones](Plan.md) 
+=======
+ - [Ingredientes](Ingredientes.md)
+ - [Consultar plan alimenticio](Plan.md) 
+>>>>>>> dd7fed21feca70fe5dc2b78de6f400094ebbcbad
 
