@@ -1,11 +1,15 @@
 #Log In del paciente
 
--Dado el usuario y contraseña proporcionado por la nutriologa, el paciente podra inciar sesion en la app.
+- Despues de haber dado clic en la URL, el paciente podra establecer su contraseña
+- Con su Usuario que eleigio y la contrseña que establecio, podra inciciar sesion como Paciente 
 
--Al paciente se le abrira su perfil de nutrición ya con los datos personales que incluyo la nutriologa y su tipo de prescripcion nutricional.
+	-El paciente podr:
+		- subir Foto de perfil.
+		- Subir recetas
+		- Modificar sus recetas
+		- Consultar su Bitacora
+		- Consultar alguna receta
+		- Modificar su peso y su talla
+		- 
 
-	-El paciente podra modificar su perfil:
-		-Foto de perfil.
-		-Cambiar usuario por defecto.
-		-Modificar contraseña por defecto.
 
