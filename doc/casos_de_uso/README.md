@@ -3,35 +3,68 @@
 Aplicación para ayudar en la interacción entre nutrióloga y paciente.
 
 
+## Objetos
+
+### Ingrediente
+
+Cosa que entra con otras en una receta. Tiene una composición
+nutrimental, o sea: aporta minerales, proteinas, etc.
+
+Los ingredientes se registran con una categoría, a través de la cuál
+pueden clasificarse en grupos alimenticios.
+
+
+### Receta
+
+Agrupa varios ingredientes junto con un procedimiento para su
+preparación.
+
+### Plan alimenticio
+
+Cantidades de categorías de alimentos, que pueden ser cubiertas por
+recetas.
+
+
+### Bitácora
+
+Al paso del tiempo regista datos antropométricos del paciente (peso,
+talla) y su consumo de alimentos. Tanto la nutrióloga como el paciente
+pueden hacer registros.
+
+
+
 ## Actores
 
-### Nutrióloga
-Se encargará del cuidado del paciente por medio de la aplicación y de la misma forma, podrá estar en conctacto con la alimentación que éste vaya teniendo y saber si está cumpliendo con la dita que se le ha indicado.
 
-Por otro lado, la nutriologa también podrá crear tablas referentes a las aportaciones de cada elemento.
+### Nutrióloga
+
+La nutrióloga crea planes alimenticios para el paciente.
+
 
 ### Paciente
-Persona que quiere cuidar su alimentación a través de una aplicación móvil de acuerdo con el plan alimenticio que la nutriologa recomendó, dadas las porciones exactas con forme a las tablas de nutrición proporcionadas por la misma.
 
-Para poder usar correctamente la apliación, primero debe de acudir con el nutriologo para que éste le indique la descarga de la app y así poder llevar a cabo el seguimiento de su prescripción nutrimental.
+Consulta recetas congruentes con el plan de alimentación recetado por
+su nutrióloga.
+
 
 ## Casos de uso
-En este apartado los actores conocerán las actividades que podrán realizar y la manera en que éstas podrán ser completadas.
 
 
+En este apartado se detallan las interacciones entre:
 
-1. NUTRIOLOGA
-	- [Registro del paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/RegistroPac.md)
-	- [Tabla de Grupos Alimenticios](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Tabla%20de%20Grupos%20Alimenticios.md)
-	- [Bitacora](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Bitacora.md)
-	- [Creación y edición de recetas](Casos%20de%20Uso/CrearEditarRecetas.md)
+- usuarios entre sí
+- usuarios con objetos del sistema
 
-2. PACIENTE
-	- [Log In Paciente](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/LOGIN%20DE%20PACIENTE.md)
-	- [Consultar RecetaS](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Consultar%20Recetas.md)
-	- [Comprar ingredientes](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Lista%20de%20compras.md)
 
-3. [INGREDIENTES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Ingredientes.md)
+	- [Registro del paciente](RegistroPac.md)
+	- [Tabla de Grupos Alimenticios](Tabla%20de%20Grupos%20Alimenticios.md)
+	- [Bitacora](Bitacora.md)
+	- [Creación y edición de recetas](CrearEditarRecetas.md)
+	- [Log In Paciente](LOGIN%20DE%20PACIENTE.md)
+	- [Consultar RecetaS](Consultar%20Recetas.md)
+	- [Comprar ingredientes](Lista%20de%20compras.md)
 
-4. [TUS PORCIONES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Plan.md)
+3. [Ingredientes](Ingredientes.md)
+
+4. [Tus Porciones](Plan.md)
 
