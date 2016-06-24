@@ -7,4 +7,4 @@ Llenando los siguientes campos:
 - Ingredientes
 - Procedimiento
 
-Pasando por un filtro que verifique si cumplen o no con las necesidades de los pacientes.
+Pasando por un filtro que verifique si cumplen o no con el plan alimencticio de los pacientes y si este no cumple, no se cargara a la lista de recetas del sistema.
