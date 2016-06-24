@@ -1,4 +1,4 @@
-#Login del paciente
+#Log In del paciente
 
 -Dado el usuario y contraseña proporcionado por la nutriologa, el paciente podra inciar sesion en la app.
 
