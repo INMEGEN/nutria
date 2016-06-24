@@ -63,7 +63,7 @@ de usuarios con los objetos del sistema.
 
  - [Registrar paciente](paciente_registrar.md)
  - [Registrar nutriologa](nutriologa_registrar.md)
- - [Ver tabla de Grupos Alimenticios](consultar_tabla_grupos.mc)
+ - [Ver tabla de Grupos Alimenticios](consultar_tabla_grupos.md)
  - [Consultar bitacora](bitacora_consulta.md)
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
