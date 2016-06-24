@@ -35,4 +35,3 @@ En este apartado los actores conocerán las actividades que podrán realizar y l
 
 4. [TUS PORCIONES](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Plan.md)
 
-5. [HISTORIAL DE RECETAS](https://github.com/INMEGEN/nutria/blob/master/Casos%20de%20Uso/Historial%20de%20Recetas.md)
