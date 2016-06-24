@@ -11,7 +11,7 @@ Cosa que entra con otras en una receta. Tiene una composición
 nutrimental, o sea: aporta minerales, proteinas, etc.
 
 Los ingredientes se registran con una categoría, a través de la cuál
-pueden clasificarse en grupos alimenticios.
+pueden clasificarse en grupos alimenticios. [Ver detalles](ingredientes.md)
 
 
 ### Receta
@@ -72,6 +72,6 @@ de usuarios con los objetos del sistema.
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
- - [Ingredientes](Ingredientes.md)
+ 
  - [Tus Porciones](Plan.md) 
 
