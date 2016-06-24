@@ -68,7 +68,7 @@ de usuarios con los objetos del sistema.
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
  - [Iniciar sesión paciente](paciente_iniciar_sesion.md)
- - [Iniciar sesión nutrióloga]()
+ - [Iniciar sesión nutrióloga](nutriologa_iniciar_sesion.md)
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
