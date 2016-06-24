@@ -31,7 +31,8 @@ Al paso del tiempo regista datos antropométricos del paciente (peso,
 talla) y su consumo de alimentos. Tanto la nutrióloga como el paciente
 pueden hacer registros.
 
-Ésta tendrá un orden cronológico 
+Ésta será temporal para que la nutriologa y el paciente puedan consultar los datos que han sido generados.
+
 
 ------------------------------
 
@@ -63,7 +64,7 @@ de usuarios con los objetos del sistema.
  - [Registrar paciente](paciente_registrar.md)
  - [Registrar nutriologa](nutriologa_registrar.md)
  - [Ver tabla de Grupos Alimenticios](consultar_tabla_grupos.mc)
- - [Consultar bitacora](consultar_bitacora.md)
+ - [Consultar bitacora](bitacora_consulta.md)
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
  - [Iniciar sesión paciente]()
