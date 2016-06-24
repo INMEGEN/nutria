@@ -1,6 +1,6 @@
-#Consultar Recetas
+##Consultar Recetas
 
-En esta sección, la [nutrióloga](nutriologia.md) y el [paciente](paciente.md), podrán consultar la lista de recetas que se han generado de manera automática.
+En esta sección, el paciente o personas afines a la aplicación, podrán consultar la lista de recetas que se ha generado de manera automática.
 
 Una vez seleccionada la receta, se podrá visualizar:
 
@@ -15,4 +15,3 @@ Así como también habrá una sección en donde se medirán los siguientes pará
 - Calificación (Estrellitas): Los usuarios serán capaces de calificar de 1-5 la receta que ha sido seleccionada.
 
 Después de ver estos campos, se mostrará una tabla con el aporte nutricional que dará cada ingrediente al paciente.
-
