@@ -61,6 +61,7 @@ En este apartado se detallan las interacciones de usuarios entre sí y
 de usuarios con los objetos del sistema.
 
  - [Registrar paciente](paciente_registrar.md)
+ - [Registrar nutriologa](nutriologa_registrar.md)
  - [Ver tabla de Grupos Alimenticios](consultar_tabla_grupos.mc)
  - [Consultar bitacora](consultar_bitacora.md)
  - [Crear recetas](recetas_crear.md)
