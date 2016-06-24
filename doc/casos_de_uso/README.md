@@ -21,8 +21,8 @@ preparación.
 
 ### Plan alimenticio
 
-Cantidades de categorías de alimentos, que pueden ser cubiertas por
-recetas.
+Cantidades de categorías de alimentos que se recetan a un paciente.
+Son cubiertas por recetas que se sugieren.
 
 
 ### Bitácora
@@ -38,7 +38,9 @@ pueden hacer registros.
 
 ### Nutrióloga
 
-La nutrióloga crea planes alimenticios para el paciente.
+La nutrióloga crea planes alimenticios para el paciente además de
+otras tareas administrativoides. Sus registros son autoritativos en el
+sistema. [Ver detalles](nutriologa.md).
 
 
 ### Paciente

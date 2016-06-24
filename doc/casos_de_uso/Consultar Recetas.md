@@ -9,4 +9,7 @@ Una vez seleccionada la receta, se podrá visualizar:
 - Ingredientes con sus cantidades y medidas correspondientes 
 - Método de elaboración
 
+
+- popularidad, rating, estrellitas
+
 Después de ver estos campos, se mostrará una tabla con el aporte nutricional que dará cada ingrediente al paciente.
