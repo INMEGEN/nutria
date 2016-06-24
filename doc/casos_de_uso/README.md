@@ -71,9 +71,10 @@ de usuarios con los objetos del sistema.
  - [Iniciar sesión nutrióloga]()
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
+ - [Migrar paciente](paciente_migrar.md)
 
 3. [Ingredientes](Ingredientes.md)
 
 
-4. [Tus Porciones](Plan.md) jaja
+4. [Tus Porciones](Plan.md) 
 
