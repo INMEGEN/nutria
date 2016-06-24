@@ -31,7 +31,7 @@ Al paso del tiempo regista datos antropométricos del paciente (peso,
 talla) y su consumo de alimentos. Tanto la nutrióloga como el paciente
 pueden hacer registros.
 
-
+------------------------------
 
 ## Actores
 
@@ -44,25 +44,25 @@ La nutrióloga crea planes alimenticios para el paciente.
 ### Paciente
 
 Consulta recetas congruentes con el plan de alimentación recetado por
-su nutrióloga.
+su nutrióloga. [Ver detalles](paciente.md).
+
+
+------------------------------
 
 
 ## Casos de uso
 
 
-En este apartado se detallan las interacciones entre:
+En este apartado se detallan las interacciones de usuarios entre sí y
+de usuarios con los objetos del sistema.
 
-- usuarios entre sí
-- usuarios con objetos del sistema
-
-
-	- [Registro del paciente](RegistroPac.md)
-	- [Tabla de Grupos Alimenticios](Tabla%20de%20Grupos%20Alimenticios.md)
-	- [Bitacora](Bitacora.md)
-	- [Creación y edición de recetas](CrearEditarRecetas.md)
-	- [Log In Paciente](LOGIN%20DE%20PACIENTE.md)
-	- [Consultar RecetaS](Consultar%20Recetas.md)
-	- [Comprar ingredientes](Lista%20de%20compras.md)
+ - [Registro del paciente](RegistroPac.md)
+ - [Tabla de Grupos Alimenticios](Tabla%20de%20Grupos%20Alimenticios.md)
+ - [Bitacora](Bitacora.md)
+ - [Creación y edición de recetas](CrearEditarRecetas.md)
+ - [Log In Paciente](LOGIN%20DE%20PACIENTE.md)
+ - [Consultar RecetaS](Consultar%20Recetas.md)
+ - [Comprar ingredientes](Lista%20de%20compras.md)
 
 3. [Ingredientes](Ingredientes.md)
 

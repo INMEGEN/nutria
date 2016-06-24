@@ -1,5 +1,28 @@
 ## Bitacora
 
+
+
+
+
+
+
+- Quimica sanguínea -Esta es Opcional
+	- Glucosa
+	- Trigliceridos
+	- Colesterol
+	- Insulina
+- IMC
+- % Grasa
+- % masa libre de grasa
+- Diagnostico/Motivo de consulta
+
+- Peso
+- Talla
+
+
+
+
+
 La nutriologra encargada del paciente tendrá acceso a la información proporcionada por éste.
 
 Los datos que se han cargado en el registro serán los que apareceran en:
