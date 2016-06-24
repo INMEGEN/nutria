@@ -67,7 +67,7 @@ de usuarios con los objetos del sistema.
  - [Consultar bitacora](bitacora_consultar.md)
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
- - [Iniciar sesión paciente]()
+ - [Iniciar sesión paciente](Lon_in_paciente.md)
  - [Iniciar sesión nutrióloga]()
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
