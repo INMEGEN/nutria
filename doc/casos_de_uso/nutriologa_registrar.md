@@ -8,3 +8,7 @@ Datos clave para el registro de la nutriologa:
 - nombre de usuario
 - nombre
 - correo electrónico
+
+Con esto se Creara un [Usuario](usuario.md) tipo nutriologa, La aplicación envía
+por correo electrónico a la nutrióloga una liga que le permite
+[establecer su contraseña](password_establecer.md). Y este se le indicara que tiene permisos de super usuario (Puede Agregar pacientes y otras nutriologas)
