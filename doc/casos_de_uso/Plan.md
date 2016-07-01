@@ -5,4 +5,4 @@
 El Plan Nutricional Individual especifíca cuántas porciones al día debe comer el paciente de cada clasificador
 alimenticio. 
 
-El paciente cubrirá estas porciones siguiendo el [menú sugerido]().
+El paciente cubrirá estas porciones siguiendo el [menú sugerido](sugerir_menu.md).
