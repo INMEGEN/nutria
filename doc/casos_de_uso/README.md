@@ -72,5 +72,6 @@ de usuarios con los objetos del sistema.
  - [Consultar Recetas](recetas_consultar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
+ - [Menus Sugerido](sugerir_menu.md)
 
 
