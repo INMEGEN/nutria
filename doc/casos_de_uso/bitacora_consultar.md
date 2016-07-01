@@ -35,3 +35,4 @@ El [paciente](paciente.md) también podrá consultar el historial y así evitar 
 
 En cuanto a lo referente a la foto, el [paciente](paciente.md) tendrá la posibilidad de subir fotografías para ir revisando su progreso físico.
 
+La nutiologa podra registrar las consultas hechas en el consultorio y el paciente podra consultar las consultas a las que ha ido y su progreso obtenido.
