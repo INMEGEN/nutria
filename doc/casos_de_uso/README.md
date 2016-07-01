@@ -31,9 +31,6 @@ Al paso del tiempo regista datos antropométricos del paciente (peso,
 talla) y su consumo de alimentos. Tanto la nutrióloga como el paciente
 pueden hacer registros.
 
-Ésta será temporal para que la nutriologa y el paciente puedan consultar los datos que han sido generados.
-
-
 ------------------------------
 
 ## Actores
@@ -74,6 +71,8 @@ de usuarios con los objetos del sistema.
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
  - [Sugerir menú](sugerir_menu.md)
+ - [Aportar ingredientes registrados](ingredientes_aportar.md)
+ 
  
 
 

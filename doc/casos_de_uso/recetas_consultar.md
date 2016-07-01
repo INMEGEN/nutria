@@ -1,6 +1,6 @@
 ##Consultar Recetas
 
-En esta sección, el paciente o personas afines a la aplicación, podrán consultar la lista de recetas que se ha generado de manera automática.
+En esta sección, la nutrióloga podrá consultar la lista de recetas.
 
 Una vez seleccionada la receta, se podrá visualizar:
 
