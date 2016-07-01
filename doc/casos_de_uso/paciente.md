@@ -3,10 +3,14 @@
 Caso particular de [usuario](usuario.md) que sólo puede:
 
 - registrar recetas
-  - registrar ingredientes que falten en la Tabla de Ingredientes
-- consulta y hace registros en su bitácora
-- consulta menú
-- genera lista de compras desde menú
+  - registrar ingredientes
+- consultar menú
+- Subir recetas
+- Modificar sus recetas
+- Consultar su Bitácora
+- Agregar notas a su bitácora
+- Consultar alguna receta
+- Modificar su peso y su talla
 
 Todos los registros que el paciente hace en las tablas del sistema se
 marcan como "aportado por paciente", para distinguirlos de los

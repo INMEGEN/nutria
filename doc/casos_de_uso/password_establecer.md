@@ -1,6 +1,3 @@
 # Establecer primera contraseña
 
-Un [usuario](usuario.md) recién registrado no tiene contraseña.
-
-Debe poder llegar a un formulario a través de un URL imposible de
-adivinar y ahí establecer su primer contraseña.
+Ambos usuarios, [nutriologa](nutriologa.md) y [paciente](paciente.md), van a recibir un correo electrónico el cual contendrá un link que cada usuario tendrá que acceder para poder establecer la contraseña, cumpliendo con el único requisito de que sea mayor a 5 caractréres alfanuméricos y nunca sobrepasando los 16.
