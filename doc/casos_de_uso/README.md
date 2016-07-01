@@ -61,17 +61,19 @@ su nutrióloga teniendo la posbibilidad de hacer cambios en la bitácora en los 
 En este apartado se detallan las interacciones de usuarios entre sí y
 de usuarios con los objetos del sistema.
 
+
  - [Registrar paciente](paciente_registrar.md)
  - [Registrar nutriologa](nutriologa_registrar.md)
- - [Ver tabla de Grupos Alimenticios](consultar_tabla_grupos.md)
+ - [Consultar tabla](consultar_tabla_grupos.md)
  - [Consultar bitacora](bitacora_consultar.md)
  - [Crear recetas](recetas_crear.md)
  - [Editar recetas](recetas_editar.md)
- - [Iniciar sesión paciente](paciente_iniciar_sesion.md)
- - [Iniciar sesión nutrióloga](nutriologa_iniciar_sesion.md)
+ - [Iniciar sesión usuario](usuario_iniciar_sesion.md)
  - [Consultar Recetas](recetas_consultar.md)
+ - [Registrar ingrediente](ingrediente_registrar.md)
  - [Comprar ingredientes](ingredientes_comprar.md)
  - [Migrar paciente](paciente_migrar.md)
  - [Menus Sugerido](sugerir_menu.md)
+ 
 
 
