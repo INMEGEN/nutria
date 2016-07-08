@@ -1,0 +1,34 @@
+.panel-primary {
+  padding: 10px;
+
+}
+
+.panel{
+	margin-top: 10px;
+}
+
+.panel-heading{
+	border-radius: 5px;
+}
+
+h2{
+	font-family: "Homer Simpson", cursive;
+	text-align: center;
+}
+
+.usuario{
+
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    width: auto;
+    height: auto;
+}
+ 
+.usuario:hover {
+	-webkit-transform:scale(1.15);
+	-moz-transform:scale(1.15);
+	-ms-transform:scale(1.15);
+	-o-transform:scale(1.15);
+	transform:scale(1.15);
+}

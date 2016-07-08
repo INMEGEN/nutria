@@ -2,6 +2,9 @@
     .navbar {
       margin-bottom: 0;
       border-radius: 0;
+      background-color: #9FF33D; 
+      color: black;
+
     }
     
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
@@ -16,8 +19,8 @@
     
     /* Set black background color, white text and some padding */
     footer {
-      background-color: #555;
-      color: white;
+      background-color: #9FF33D;
+      color: black;
       padding: 15px;
     }
     
@@ -37,4 +40,5 @@
     /* Remove the jumbotron's default bottom margin */
      .jumbotron {
       margin-bottom: 0;
+      background-color: #FFCA40; 
     }
