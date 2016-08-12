@@ -15,9 +15,6 @@
 <body>
 
 <div class="container">
-
-  <button type="button" class="btn btn-default btn-lg" id="myBtn">Login</button>
-
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
@@ -31,23 +28,22 @@
         <div class="modal-body" style="padding:40px 50px;">
           <form role="form">
             <div class="form-group">
-              <label for="usrname"><span class="glyphicon glyphicon-user"></span> Username</label>
+              <label for="usrname"><span class="glyphicon glyphicon-user"></span> Usuario </label>
               <input type="text" class="form-control" id="usrname" placeholder="Enter email">
             </div>
             <div class="form-group">
-              <label for="psw"><span class="glyphicon glyphicon-eye-open"></span> Password</label>
-              <input type="text" class="form-control" id="psw" placeholder="Enter password">
+              <label for="psw"><span class="glyphicon glyphicon-eye-open"></span> Contraseña </label>
+              <input type="password" class="form-control" id="psw" placeholder="Enter password">
             </div>
             <div class="checkbox">
-              <label><input type="checkbox" value="" checked>Remember me</label>
+              <label><input type="checkbox" value="" checked>Recordarme</label>
             </div>
               <button type="submit" class="btn btn-success btn-block"><span class="glyphicon glyphicon-off"></span> Login</button>
           </form>
         </div>
         <div class="modal-footer">
-          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Cancel</button>
-          <p>Not a member? <a href="#">Sign Up</a></p>
-          <p>Forgot <a href="#">Password?</a></p>
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Cancel</button></a>
+          <p>Olvidó <a href="#">Contraseña?</a></p>
         </div>
       </div>
       
@@ -56,11 +52,9 @@
 </div>
  
 <script>
-$(document).ready(function(){
-    $("#myBtn").click(function(){
-        $("#myModal").modal();
-    });
-});
+  $(document).ready(function(){
+    $("#myModal").modal();
+  });
 </script>
 
 </body>
